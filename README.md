@@ -1,0 +1,2 @@
+# DGDB
+Decentralized Graph Database
