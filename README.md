@@ -120,6 +120,8 @@ So <img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i.svg">
  Sy<img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i_5.svg" width=40 align="middle">qM 
  Sy<img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i_5.svg" width=35 align="middle">qM 
  Sy<img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i_5.svg" width=30 align="middle">qM 
+ Sy<img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i_5.svg" width=25 align="middle">qM 
+ Sy<img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i_5.svg" width=20 align="middle">qM 
 <img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i.svg" width=25 align="bottom"> <img style="vertical-align:text-top" src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i_top.svg" width=25> you see. you see.
 
 <span style="display:inline-block; vertical-align:middle">display:inline-block<br>vertical-align:middle</span>
