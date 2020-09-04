@@ -112,6 +112,8 @@ When i is small, P_i will be affected by trends in computer programming, more li
 So <img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i.svg"> <img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i.svg" width=30> <img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i.svg" width=25 align="middle">
 <img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i_b2.svg" width=25 align="middle">
 <img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i_btm.svg" width=25 align="middle">
+<img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i_btm.svg" width=35 align="middle">
 <img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i.svg" width=25 align="bottom"> <img style="vertical-align:text-top" src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i_top.svg" width=25> you see. you see.
 
-<span style="display:inline-block; vertical-align:middle">display:inline-block<br>vertical-align:middle</span>
+<s<img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i_btm.svg" width=35 align="middle">pan style="display:inline-block; vertical-align:middle">displ
+  ay:inline-block<br>vertical-align:middle</span>
