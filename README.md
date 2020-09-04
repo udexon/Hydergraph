@@ -43,10 +43,33 @@ We have initially demonstrated decentralized user authentication with "Greeting 
 
 The example above employed Websocket messaging. In applications where SSH tunnel is required, Websocket is problematic. As such, we are implementing GASP over basic AJAX as shown below:
 
+1. The source code for Hydegraph AJAX demo is available here:
+
+- https://github.com/udexon/Hydegraph/tree/master/phos
+
+2. The following commands are entered via the browser console:
+
 ```js
+c=new JSEncrypt()
 F("nxhr: phos.php xo: xsqrh:")
 F('a b c s: 9 3 + s: '+ btoa(c.getPublicKey()) 
 +' b64d: 4 orpb: hex: enc: b64e: s:',"je: xsend:")
 ```
+
+(The HTML web page belong to an older example which briefly describes the principles of Phoscript &mdash; a Forth-like script that can act as a wrapper shell in almost all known programming languages, including Python, JavaScript and PHP.)
+
+i. `c=new JSEncrypt()` initializes a `JSEncrypt` object for asymmetric cryptography.
+
+ii. `F("nxhr: phos.php xo: xsqrh:")` initializes the AJAX connection.
+
+iii. `F('a b c s: 9 3 + s: '+ btoa(c.getPublicKey()) 
++' b64d: 4 orpb: hex: enc: b64e: s:',"je: xsend:")`
+
+- sends the public key of `c` (`btoa(c.getPublicKey())`) to the back-end
+- `b64d:` decodes the public key by calling `base64_decode()` in PHP
+- `4 orpb:` generates a 4-byte random number by calling `openssl_random_pseudo_bytes()`
+- `hex:` converts the random number into hexadecimal notation (string)
+- `enc:` encrypt the random number using `openssl_public_encrypt()`
+- `b64e:` convert the encrypted message by calling `base64_encode()` so that the results are human readable
 
 <img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/GASP.png" width=400>
