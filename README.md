@@ -109,6 +109,6 @@ When i is small, P_i will be affected by trends in computer programming, more li
 
 <img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/equation.svg">
 
-So <img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i.svg"> <img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i.svg" width=30> <img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i.svg" width=25 align="middle"> <img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i.svg" width=25 align="bottom"> <img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i.svg" width=25 style="display:inline-block; vertical-align:sub"> you see. you see.
+So <img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i.svg"> <img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i.svg" width=30> <img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i.svg" width=25 align="middle"> <img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i.svg" width=25 align="bottom"> <img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i.svg" width=25 style="vertical-align:-100%"> you see. you see.
 
 <span style="display:inline-block; vertical-align:middle">display:inline-block<br>vertical-align:middle</span>
