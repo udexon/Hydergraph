@@ -1,10 +1,11 @@
 # DGDB
-Decentralized Graph Database
-
+Hydegraph &mdash; Decentralized Graph Database using Hybrid API
 
 - Free software revolution 1.0: Decentralization of Code
 - Free software revolution 1.5: Blockchain and Cryptocurrencies
 - Free software revolution 2.0: Decentralization of Data
+
+Scifi fans may recognize Hyde as one Mr Hyde &mdash; the distant ancestor of Dr. Bruce Banner & the Incredible Hulk. "Hy" is taken from "Hybird API", "de" from "decentralized" and "graph" from graph database. The Hulk analogy is meant to imply that Hydegraph will transform the seemingly powerless user's desktop computers and mobile devices into something that can rival MAGA+F (Microsoft Apple Google Amazon Facebook).
 
 Get search results in a web spreadsheet, which itself is programmable.
 
