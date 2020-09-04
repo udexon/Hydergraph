@@ -9,10 +9,6 @@ Scifi fans may recognize Hyde as one Mr Hyde &mdash; the distant ancestor of Dr.
 
 There are at least 3 fundamental paradigm shifts that are required to make this happen -- graph database, decentralized user authentication, hybrid programming language API -- which may explain why it has not been achieved so far, as the likelihood of finding someone or a group of programmers mastering all 3 fields would be infinitesimal.
 
-It takes a finite time t0 for programmer P0 to convince programmer P1 to believe in this vision, to be called Phosway. Let t_i be the time taken for programmer P_i to convince programmer P_{i+1}. So we hope that t_i < t_{i+1} is true.
-When i is small, P_i will be affected by trends in computer programming, more likely to choose to dismiss Phosway rather than believing in it.
-
-Get search results in a web spreadsheet, which itself is programmable.
 
 
 ## I: Graph Database
@@ -102,3 +98,11 @@ Further, the user may change his (her) private and public keys _ANYTIME_. The ch
 5. From the example above, we show that DUA have fundamentally changed the mechanism of conventional user authentication from being server-centric to user-centric.
 
 As user authentication is one of the most if not the most important mechanism in computer applications, a paradigm shift towards DUA may just create a new segment in the computing industry that may be worth the _EQUIVALENT_ of the industry segment based on server-centric (centralized) user authentication.
+
+6. Get search results in a web spreadsheet, which itself is programmable.
+
+
+7. It takes a finite time t0 for programmer P0 to convince programmer P1 to believe in this vision, to be called Phosway. Let t_i be the time taken for programmer P_i to convince programmer P_{i+1}. So we hope that t_i < t_{i+1} is true.
+
+When i is small, P_i will be affected by trends in computer programming, more likely to choose to dismiss Phosway rather than believing in it.
+
