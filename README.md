@@ -37,3 +37,10 @@ The term "decentralized" has been "hijacked and abused" by blockchain advocates 
 ## III: Hybrid Programming Language API
 
 Universal interface script
+
+
+```js
+F("nxhr: phos.php xo: xsqrh:")
+F('a b c s: 9 3 + s: '+ btoa(c.getPublicKey()) 
++' b64d: 4 orpb: hex: enc: b64e: s:',"je: xsend:")
+```
