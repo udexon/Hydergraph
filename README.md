@@ -106,3 +106,5 @@ As user authentication is one of the most if not the most important mechanism in
 
 When i is small, P_i will be affected by trends in computer programming, more likely to choose to dismiss Phosway rather than believing in it.
 
+
+<img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/equation.svg">
