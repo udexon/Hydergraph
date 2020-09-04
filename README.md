@@ -108,3 +108,5 @@ When i is small, P_i will be affected by trends in computer programming, more li
 
 
 <img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/equation.svg">
+
+So <img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/P_i.svg"> you see.
