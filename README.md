@@ -6,16 +6,16 @@
 
 Scifi fans may recognize Hyde as one Mr Hyde &mdash; the distant ancestor of Dr. Bruce Banner & the Incredible Hulk. "Hy" is taken from "Hybird API", "de" from "decentralized" and "graph" from graph database. The Hulk analogy is meant to imply that Hydegraph will transform the seemingly powerless user's desktop computers and mobile devices into something that can rival MAGA+F (Microsoft Apple Google Amazon Facebook).
 
-Get search results in a web spreadsheet, which itself is programmable.
 
 There are at least 3 fundamental paradigm shifts that are required to make this happen -- graph database, decentralized user authentication, hybrid programming language API -- which may explain why it has not been achieved so far, as the likelihood of finding someone or a group of programmers mastering all 3 fields would be infinitesimal.
 
 It takes a finite time t0 for programmer P0 to convince programmer P1 to believe in this vision, to be called Phosway. Let t_i be the time taken for programmer P_i to convince programmer P_{i+1}. So we hope that t_i < t_{i+1} is true.
 When i is small, P_i will be affected by trends in computer programming, more likely to choose to dismiss Phosway rather than believing in it.
 
+Get search results in a web spreadsheet, which itself is programmable.
 
 
-## Graph Database
+## I: Graph Database
 
 - A json file is part of a graph database.
 
