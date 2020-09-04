@@ -53,7 +53,7 @@ The example above employed Websocket messaging. In applications where SSH tunnel
 c=new JSEncrypt()
 F("nxhr: phos.php xo: xsqrh:")
 F('a b c s: 9 3 + s: '+ btoa(c.getPublicKey()) 
-+' b64d: 4 orpb: hex: enc: b64e: s:',"je: xsend:")
++' b64d: 4 orpb: hex: dup2: enc: b64e: s:',"je: xsend:")
 ```
 
 (The HTML web page belong to an older example which briefly describes the principles of Phoscript &mdash; a Forth-like script that can act as a wrapper shell in almost all known programming languages, including Python, JavaScript and PHP.)
@@ -63,13 +63,20 @@ i. `c=new JSEncrypt()` initializes a `JSEncrypt` object for asymmetric cryptogra
 ii. `F("nxhr: phos.php xo: xsqrh:")` initializes the AJAX connection.
 
 iii. `F('a b c s: 9 3 + s: '+ btoa(c.getPublicKey()) 
-+' b64d: 4 orpb: hex: enc: b64e: s:',"je: xsend:")`
++' b64d: 4 orpb: hex: dup2: enc: b64e: s:',"je: xsend:")`
 
 - sends the public key of `c` (`btoa(c.getPublicKey())`) to the back-end
 - `b64d:` decodes the public key by calling `base64_decode()` in PHP
 - `4 orpb:` generates a 4-byte random number by calling `openssl_random_pseudo_bytes()`
 - `hex:` converts the random number into hexadecimal notation (string)
-- `enc:` encrypt the random number using `openssl_public_encrypt()`
-- `b64e:` convert the encrypted message by calling `base64_encode()` so that the results are human readable
+- `dup2:` duplicates 2 items at the top of the stack, so that we may compare the hexadecimal random number in the back-end with the decrypted results in the front-end
+- `enc:` encrypts the random number using `openssl_public_encrypt()`
+- `b64e:` converts the encrypted message by calling `base64_encode()` so that the results are human readable
+- `s:` displays all items on the stack
 
+iv. Finally, the encrypted base64 message is decrypted at the front-end manually using `c.decrypt()`. 
+
+Stack item index [6] `5c4b74da` matches with the result of `c.decrypt()` at the bottom of figure 1.
+
+- Figure 1
 <img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/GASP.png" width=400>
