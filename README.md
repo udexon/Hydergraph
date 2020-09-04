@@ -1,5 +1,4 @@
-# DGDB
-Hydegraph &mdash; Decentralized Graph Database using Hybrid API
+# Hydegraph &mdash; Decentralized Graph Database using Hybrid API
 
 - Free software revolution 1.0: Decentralization of Code
 - Free software revolution 1.5: Blockchain and Cryptocurrencies
@@ -38,10 +37,16 @@ The term "decentralized" has been "hijacked and abused" by blockchain advocates 
 
 Universal interface script
 
+We have initially demonstrated decentralized user authentication with "Greeting with A Secret Phrase" (GASP) protocol in the following link:
+
+- https://github.com/udexon/XIDT/blob/master/Greet_Secret_Phrase.md
+
+The example above employed Websocket messaging. In applications where SSH tunnel is required, Websocket is problematic. As such, we are implementing GASP over basic AJAX as shown below:
 
 ```js
 F("nxhr: phos.php xo: xsqrh:")
 F('a b c s: 9 3 + s: '+ btoa(c.getPublicKey()) 
 +' b64d: 4 orpb: hex: enc: b64e: s:',"je: xsend:")
 ```
+
 <img src="https://github.com/udexon/Hydegraph/blob/master/Hydegraph/GASP.png" width=400>
