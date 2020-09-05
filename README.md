@@ -99,6 +99,12 @@ Together with the decentralized user authentication (DUA) mechanism shown above,
 As you can see, web based software environments
  in the past few decades have remained fragmented, where different programming languages are needed for different environments. Although JavaScript has recently emerged as the choice of cross platform programming language, legacy codebase in different programming languages that exist in different environments 
 
+cannot be meaningfully unified, unless a Hybrid API scheme as proposed in this article is implemented.
+
+With Hybrid API across 3 most common programming languages (Python, JavaScript, PHP), it makes learning programming much easier for novice, i.e. having to learn only Phoscript plus entry level knowledge of the host programming languages, instead of mastering all three.
+
+Hybrid API also allows senior programmers to specialize on developing language specific callee function libraries. It is much easier to find 3 senior programmers specializing in one programming language each, instead of one senior programmer specializing in 3 programming languages.
+
 Benefits of Hybrid API, too many programming languages.
 
 Further, the user may change his (her) private and public keys _ANYTIME_. The chain of keypairs, together with the period of validity of the keypairs, will be unique enough to identify all human population and devices on Earth in the foreseeable future. As the user has the right to change his (her) keypairs anytime, this is known as Transient Key Cryptography (TKC).
