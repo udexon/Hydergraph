@@ -117,6 +117,10 @@ As user authentication is one of the most if not the most important mechanism in
 
 6. Get search results in a web spreadsheet, which itself is programmable.
 
+To summarize this article with an easy to understand application example:
+
+- Imagine the ubiquitous Google search box is turned into a spreadsheet application, where users have total read/write access to the database, and may write their own customized search algorithms.
+
 
 7. It takes a finite time t0 for programmer P0 to convince programmer P1 to believe in this vision, to be called Phosway. Let t_i be the time taken for programmer P_i to convince programmer P_{i+1}. So we hope that t_i < t_{i+1} is true.
 
