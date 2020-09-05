@@ -105,6 +105,8 @@ With Hybrid API across 3 most common programming languages (Python, JavaScript, 
 
 Hybrid API also allows senior programmers to specialize on developing language specific callee function libraries. It is much easier to find 3 senior programmers specializing in one programming language each, instead of one senior programmer specializing in 3 programming languages.
 
+The scenario described here is applicable in general to other software development environments.
+
 Benefits of Hybrid API, too many programming languages.
 
 Further, the user may change his (her) private and public keys _ANYTIME_. The chain of keypairs, together with the period of validity of the keypairs, will be unique enough to identify all human population and devices on Earth in the foreseeable future. As the user has the right to change his (her) keypairs anytime, this is known as Transient Key Cryptography (TKC).
