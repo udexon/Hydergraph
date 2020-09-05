@@ -21,11 +21,9 @@ Academics would not be interested in this debate. 
 
 
 
-What only MAGA+F can do in-house, all programmers can do now, producing MAGA+F clones, and better.
+With Hypergraph, what only MAGA+F can do in-house previously, all programmers can do now, producing MAGA+F clones, and perhaps better.
 
-Chances of success of similar projects? How did their teams grow?
 
- 
 ## II: Decentralized User Authentication
 The term "decentralized" has been "hijacked and abused" by blockchain advocates in the past few years with some notable, but limited, progress. We adopted this term largely due to the fact that our framework has a common root with blockchain in asymmetric cryptography, and it modifies significantly one of the most fundamental step in network computing: user authentication.
 
