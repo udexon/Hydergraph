@@ -6,6 +6,7 @@
 
 Scifi fans may recognize Hyde as one Mr Hyde &mdash; the distant ancestor of Dr. Bruce Banner & the Incredible Hulk. "Hy" is taken from "Hybird API", "de" from "decentralized" and "graph" from graph database. The Hulk analogy is meant to imply that Hydergraph will transform the seemingly powerless user's desktop computers and mobile devices into something that can rival MAGA+F (Microsoft Apple Google Amazon Facebook).
 
+We added an R between Hyde and Graph to make Hypergraph easier to pronounce.
 
 There are at least 3 fundamental paradigm shifts that are required to make this happen -- graph database, decentralized user authentication, hybrid programming language API -- which may explain why it has not been achieved so far, as the likelihood of finding someone or a group of programmers mastering all 3 fields would be infinitesimal.
 
@@ -27,6 +28,8 @@ Chances of success of similar projects? How did their teams grow?
  
 ## II: Decentralized User Authentication
 The term "decentralized" has been "hijacked and abused" by blockchain advocates in the past few years with some notable, but limited, progress. We adopted this term largely due to the fact that our framework has a common root with blockchain in asymmetric cryptography, and it modifies significantly one of the most fundamental step in network computing: user authentication.
+
+Blockchain is just a very clumsy way to do decentralized data base. Hypergraph is better.
 
 
 ## III: Hybrid Programming Language API
