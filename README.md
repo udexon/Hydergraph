@@ -117,7 +117,9 @@ As user authentication is one of the most if not the most important mechanism in
 
 To summarize this article with an easy to understand application example:
 
-- Imagine the ubiquitous Google search box is turned into a spreadsheet application, where users have total read/write access to the database, and may write their own customized search algorithms.
+- Imagine the ubiquitous Google search box is turned into a spreadsheet application, where users have total read/write access to the database, and may write their own customized search algorithms, as well as write code to modify the user interface of the application.
+
+<img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/Google-Search-Spreadsheet.png" width=600>
 
 Thousands of user-programmers ("usegrammers") share their code to produce the best and ever improving search algorithms, instead of relying on Google in-house programmers, whose direction will be filtered by layers upon layers of bureaucracies.
 
