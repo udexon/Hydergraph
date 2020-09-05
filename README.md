@@ -24,6 +24,7 @@ Academics would not be interested in this debate. 
 
 
 ### II: Decentralized User Authentication
+
 The term "decentralized" has been "hijacked and abused" by blockchain advocates in the past few years with some notable, but limited, progress. We adopted this term largely due to the fact that our framework has a common root with blockchain in asymmetric cryptography, and it modifies significantly one of the most fundamental step in network computing: user authentication.
 
 Blockchain is just a very clumsy way to do decentralized data base. Hypergraph is better.
@@ -31,14 +32,14 @@ Blockchain is just a very clumsy way to do decentralized data base. Hypergraph i
 
 ### III: Hybrid Programming Language API
 
-As you can see, web based software environments in the past few decades have remained fragmented, where different programming languages are needed for different environments. Although JavaScript has recently emerged as the choice of cross platform programming language, legacy codebase in different programming languages that exist in different environments cannot be meaningfully unified, unless a Hybrid API scheme as proposed in this article is implemented.
+Web based software architectures in the past few decades have remained fragmented, where different programming languages are needed for different environments. Although JavaScript has recently emerged as the choice of cross platform programming language, legacy codebase in different programming languages that exist in different environments cannot be meaningfully unified, unless a Hybrid API scheme as proposed in this article is implemented.
 
-Universal interface script
+Phoscript, a Reverse Polish Notation / Stack Machine script derived from the Forth programming language, can serve as a "universal interface script" within a host programming language, such as Python, JavaScript, PHP etc., as we shall demonstrate below. As such, the caller function is written in Phoscript while the callee function is written in a host programming language such as Python, JavaScript, PHP etc., hence the term "hybrid API".
 
 
 ## Decentralized User Authentication
 
-We have initially demonstrated decentralized user authentication with "Greeting with A Secret Phrase" (GASP) protocol in the following link:
+We have initially demonstrated decentralized user authentication (DUA) with "Greeting with A Secret Phrase" (GASP) protocol in the following link:
 
 - https://github.com/udexon/XIDT/blob/master/Greet_Secret_Phrase.md
 
