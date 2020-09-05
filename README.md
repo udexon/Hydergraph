@@ -21,13 +21,14 @@ Academics would not be interested in this debate. 
 
 
 
-With Hypergraph, what only MAGA+F can do in-house previously, all programmers can do now, producing MAGA+F clones, and perhaps better.
 
 
 ## II: Decentralized User Authentication
 The term "decentralized" has been "hijacked and abused" by blockchain advocates in the past few years with some notable, but limited, progress. We adopted this term largely due to the fact that our framework has a common root with blockchain in asymmetric cryptography, and it modifies significantly one of the most fundamental step in network computing: user authentication.
 
 Blockchain is just a very clumsy way to do decentralized data base. Hypergraph is better.
+
+
 
 
 ## III: Hybrid Programming Language API
@@ -120,6 +121,9 @@ To summarize this article with an easy to understand application example:
 - Imagine the ubiquitous Google search box is turned into a spreadsheet application, where users have total read/write access to the database, and may write their own customized search algorithms.
 
 Thousands of user-programmers ("usegrammers") share their code to produce the best and ever improving search algorithms, instead of relying on Google in-house programmers, whose direction will be filtered by layers upon layers of bureaucracies.
+
+With Hypergraph, what only MAGA+F can do in-house previously, all programmers can do now, producing MAGA+F clones, and perhaps better.
+
 
 
 7. It takes a finite time t0 for programmer P0 to convince programmer P1 to believe in this vision, to be called Phosway. Let t_i be the time taken for programmer P_i to convince programmer P_{i+1}. So we hope that t_i < t_{i+1} is true.
