@@ -95,7 +95,7 @@ The front-end module is supposed to be able to decrypt the encrypted random numb
 
 - https://github.com/udexon/Multiweb/blob/master/Reddit_anon_comment.md
 
-Together with the decentralized user authentication (DUA) mechanism shown above, we now have the building blocks for Hydegraph:
+Together with the decentralized user authentication (DUA) mechanism shown above, we now have the building blocks for Hydergraph:
 
 - decentralized user authentication
 - graph database
