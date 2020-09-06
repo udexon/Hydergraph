@@ -125,7 +125,7 @@ To summarize this article with an easy to understand application example:
 
 <img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/Google-Search-Spreadsheet.png" width=600>
 
-Thousands of user-programmers ("usegrammers") share their code to produce the best and ever improving search algorithms, instead of relying on Google in-house programmers, whose direction will be filtered by layers upon layers of bureaucracies.
+Thousands of user-programmers ("usegrammers") may now share their code to produce the best and ever improving search algorithms, instead of relying on Google in-house programmers, whose direction will be filtered by layers upon layers of bureaucracies, notwithstanding "national security", the biggest threat to personal privacy.
 
 With Hypergraph, what only MAGA+F can do in-house previously, all programmers can do now, producing MAGA+F clones, and perhaps better.
 
