@@ -29,7 +29,9 @@ Academics would not be interested in this debate. 
 
 The term "decentralized" has been "hijacked and abused" by blockchain advocates in the past few years with some notable, but limited, progress. We adopted this term largely due to the fact that our framework has a common root with blockchain in asymmetric cryptography, and it modifies significantly one of the most fundamental step in network computing: user authentication.
 
-Blockchain is just a very clumsy way to do decentralized data base. Hypergraph is better.
+Blockchain is just a very clumsy way to do decentralized data base. 
+
+Hydergraph overcomes many design flaws in block chain and cryptocurrencies from the most fundamental level.
 
 
 ### III: Hybrid Programming Language API
