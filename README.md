@@ -130,4 +130,6 @@ Thousands of user-programmers ("usegrammers") may now share their code to produc
 With Hypergraph, what only MAGA+F can do in-house previously, all programmers can do now, producing MAGA+F clones, and perhaps better.
 
 
+### Epilogue
 
+Some readers may associate Hydergraph with HYDRA .... _But you really shoudn't_ ....
