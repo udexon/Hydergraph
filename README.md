@@ -1,12 +1,14 @@
 # Hydergraph &mdash; Decentralized Graph Database using Hybrid API
 
-- Free software revolution 1.0: Decentralization of Code
-- Free software revolution 1.5: Blockchain and Cryptocurrencies
-- Free software revolution 2.0: Decentralization of Data
+We may define generations of Free Software Revolutions as follow:
+
+- Free Software Revolution 1.0: Decentralization of Code &mdash; GNU / Linux
+- Free Software Revolution 1.5: Blockchain and Cryptocurrencies
+- Free Software Revolution 2.0: Decentralization of Data &mdash; Hydergraph
 
 Scifi fans may recognize Hyde as one Mr Hyde &mdash; the distant ancestor of Dr. Bruce Banner & the Incredible Hulk. "Hy" is taken from "Hybird API", "de" from "decentralized" and "graph" from graph database. The Hulk analogy is meant to imply that Hydergraph will transform the seemingly powerless user's desktop computers and mobile devices into something that can rival MAGA+F (Microsoft Apple Google Amazon Facebook).
 
-We added an R between Hyde and Graph to make Hypergraph easier to pronounce.
+We added an "R" between Hyde and Graph to make Hypergraph easier to pronounce.
 
 There are at least 3 fundamental paradigm shifts that are required to make this happen -- graph database, decentralized user authentication, hybrid programming language API -- which may explain why it has not been achieved so far, as the likelihood of finding someone or a group of programmers mastering all 3 fields would be infinitesimal.
 
