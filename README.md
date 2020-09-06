@@ -6,7 +6,7 @@ We may define generations of Free Software Revolutions as follow:
 - Free Software Revolution 1.5: Blockchain and Cryptocurrencies
 - Free Software Revolution 2.0: Decentralization of Data &mdash; Hydergraph
 
-Scifi fans may recognize Hyde as one Mr Hyde &mdash; the distant ancestor of Dr. Bruce Banner & the Incredible Hulk. "Hy" is taken from "Hybird API", "de" from "decentralized" and "graph" from graph database. The Hulk analogy is meant to imply that Hydergraph will transform the seemingly powerless user's desktop computers and mobile devices into something that can rival MAGA+F (Microsoft Apple Google Amazon Facebook).
+Scifi fans may recognize Hyde as one Mr Hyde &mdash; the distant ancestor of Dr. Bruce Banner & the Incredible Hulk. "Hy" is taken from "Hybrid API", "de" from "decentralized" and "graph" from graph database. The Hulk analogy is meant to imply that Hydergraph will transform the seemingly powerless user's desktop computers and mobile devices into something that can rival MAGA+F (Microsoft Apple Google Amazon Facebook).
 
 We added an "R" between Hyde and Graph to make Hypergraph easier to pronounce.
 
