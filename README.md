@@ -62,7 +62,7 @@ F('a b c s: 9 3 + s: '+ btoa(c.getPublicKey())
 +' b64d: 4 orpb: hex: dup2: enc: b64e: s:',"je: xsend:")
 ```
 
-(The HTML web page belong to an older example which briefly describes the principles of Phoscript &mdash; a Forth-like script that can act as a wrapper shell in almost all known programming languages, including Python, JavaScript and PHP.)
+(The HTML web page is an older example (hence some deprecated terms) which briefly describes the principles of Phoscript &mdash; a Forth-like script that can act as a wrapper shell in almost all known programming languages, including Python, JavaScript and PHP.)
 
 i. `c=new JSEncrypt()` initializes a `JSEncrypt` object for asymmetric cryptography.
 
