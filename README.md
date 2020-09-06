@@ -131,24 +131,3 @@ With Hypergraph, what only MAGA+F can do in-house previously, all programmers ca
 
 
 
-7. It takes a finite time t0 for programmer P0 to convince programmer P1 to believe in this vision, to be called Phosway. Let t_i be the time taken for programmer P_i to convince programmer P_{i+1}. So we hope that t_i < t_{i+1} is true.
-
-When i is small, P_i will be affected by trends in computer programming, more likely to choose to dismiss Phosway rather than believing in it.
-
-
-<img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/equation.svg">
-
-So <img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/P_i.svg"> <img src="https://github.com/udexon/Hydegraph/blob/master/Hydergraph/P_i.svg" width=30> <img src="https://github.com/udexon/Hydegraph/blob/master/Hydergraph/P_i.svg" width=25 align="middle">
-<img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/P_i_b2.svg" width=25 align="middle">
-<img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/P_i_btm.svg" width=25 align="middle">
-<img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/P_i_btm.svg" width=35 align="middle">
-<img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/P_i_b3.svg" width=35 align="middle">
- yS<img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/P_i_b4.svg" width=40 align="middle">mM 
- Sy<img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/P_i_5.svg" width=40 align="middle">qM 
- Sy<img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/P_i_5.svg" width=35 align="middle">qM 
- Sy<img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/P_i_5.svg" width=30 align="middle">qM 
- Sy<img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/P_i_5.svg" width=25 align="middle">qM 
- Sy<img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/P_i_5.svg" width=20 align="middle">qM 
-<img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/P_i.svg" width=25 align="bottom"> <img style="vertical-align:text-top" src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/P_i_top.svg" width=25> you see. you see.
-
-<span style="display:inline-block; vertical-align:middle">display:inline-block<br>vertical-align:middle</span>
